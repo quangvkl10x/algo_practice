@@ -1,0 +1,3 @@
+******SPOJ******
+
+- KQUERY2 : ordered_multiset -> Failed
